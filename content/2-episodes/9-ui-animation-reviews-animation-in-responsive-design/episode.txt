@@ -1,0 +1,31 @@
+Title: UI Animation Reviews: Animation In Responsive Design
+
+----
+
+Date: 2015-06-19
+
+----
+
+Vimeo: 131224232
+
+----
+
+Summary: 
+
+Another UI animation review episode! This time we're looking at animation in responsive design. There are a lot of factors that come into play when we're animating objects that require space to move in while at the same time knowing that the amount of viewport space we have available will change. In this episode I look at how five different sites adjust their animation design decisions for different screen sizes.
+
+In this episode I review:
+
+- Rally Interactive’s 3D folding navigation.
+- WHYY’s Pension Stories and their stacking data illustration SVG animations.
+- Si Digital’s full page scrolling animated illustration.
+- Legomushroom’s Bubble navigation demo.
+- The motion on Stripe’s Dashboard for iPhone page.
+
+Full episode description: valhead.com/2015/06/19/screencast-animation-in-responsive-design/
+
+Music from the super happy and upbeat Alpine. Go buy *A is for Alpine* on [Amazon](http://www.amazon.com/A-Is-Alpine/dp/B00C2U6E60) or [iTunes](http://itunes.apple.com/us/album/a-is-for-alpine/id636157647).
+
+----
+
+Transcript: 

@@ -1,0 +1,11 @@
+Title: Home
+
+----
+
+Text: Welcome to All the Right Moves, a screencast highlighting and demystifying UI animations on the Web. This series includes CSS animation tutorials and reviews of emergent and interesting animated interfaces. All the Right Moves is hosted by [Val Head](http://www.valhead.com/), a designer and interface animation consultant. Caution: might contain cats and bad jokes.
+
+----
+
+Rss-instructions: Subscribe to the Vimeo channel or to the RSS feed using your favorite RSS reader.
+
+<a href="https://vimeo.com/channels/alltherightmoves/videos/rss" class="btn btn-outline-inverted-alt"><i class="fa fa-vimeo"></i> Vimeo Channel</a> <a href="https://vimeo.com/channels/alltherightmoves/videos/rss" class="btn btn-outline-inverted"><i class="fa fa-rss"></i> RSS Feed</a>

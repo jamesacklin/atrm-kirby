@@ -1,0 +1,23 @@
+Title: UI Animation Reviews: Web Forms
+
+----
+
+Date: 2015-02-02
+
+----
+
+Vimeo: 118503213
+
+----
+
+Summary:
+
+I'm trying something a little different in this episode. I was recently asked why I don't cover examples of UI animation on existing sites here like I do in my talks. I didn't have a good answer, so I thought I'd try posting some here in the form of UI animation reviews.
+
+In this episode I review five examples of web form animation and what they do well.
+
+Music from the super happy and upbeat Alpine. Go buy *A is for Alpine* on [Amazon](http://www.amazon.com/A-Is-Alpine/dp/B00C2U6E60) or [iTunes](http://itunes.apple.com/us/album/a-is-for-alpine/id636157647).
+
+----
+
+Transcript:

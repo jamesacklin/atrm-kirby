@@ -1,0 +1,17 @@
+Title: Playing a CSS animation on :hover (with animation-play-state)
+
+----
+
+Date: 2012-12-20
+
+----
+
+Vimeo: 61477511
+
+----
+
+Summary: A short tutorial on what animation-play-state does and one possibly way to use it.
+
+----
+
+Transcript:

@@ -1,0 +1,25 @@
+Title: Modular CSS Animations
+
+----
+
+Date: 2014-04-13
+
+----
+
+Vimeo: 89021288
+
+----
+
+Summary: 
+
+Write smaller sets of keyframes and get modular with your CSS animations!
+
+In this episode I cover breaking up your CSS animations into smaller more modular pieces and apply multiple animations to one element. For me this makes it easier to follow your code and makes for more re-useable animations. Two big pluses in my book!
+
+The example we use is on [codepen](cdpn.io/adnKt) and full tutorial details are on [my site](http://valhead.com).
+
+Music from the super happy and upbeat Alpine. Go buy *A is for Alpine* on [Amazon](http://www.amazon.com/A-Is-Alpine/dp/B00C2U6E60) or [iTunes](http://itunes.apple.com/us/album/a-is-for-alpine/id636157647).
+
+----
+
+Transcript: 

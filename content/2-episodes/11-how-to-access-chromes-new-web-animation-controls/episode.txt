@@ -1,0 +1,23 @@
+Title: How to access Chrome’s new web animation controls
+
+----
+
+Date: 2015-11-18
+
+----
+
+Vimeo: 146184432
+
+----
+
+Summary:
+
+A quick screencast to show you how to get these controls in Chrome Canary and what you can do with them. It's an experimental feature so all of this might change at any point in time. But if you're having trouble finding them, let me save you some time :)
+
+A big thanks and high-fives to [Una](http://twitter.com/una) and [@juantalon](http://twitter.com/juatalon) for their help! And a huge thanks to the Chrome team for building in awesome tools like this for us!
+
+For more web animation tips and tricks, subscribe to the [UI Animation Newsletter](http://www.uianimationnewsletter.com/).
+
+----
+
+Transcript:

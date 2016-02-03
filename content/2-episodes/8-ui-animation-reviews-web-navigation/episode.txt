@@ -1,0 +1,33 @@
+Title: UI Animation Reviews: Web Navigation
+
+----
+
+Date: 2015-03-10
+
+----
+
+Vimeo: 121803800
+
+----
+
+Summary: 
+
+I’m back with another UI animation review episode. This time I'm reviewing five examples of sites that use animation well in their navigation. We've got animation that helps keep you oriented, animation that works well even with keyboard controls, animation that fits in thanks to consistent art direction and more. There’s so much to talk about with navigation and animation, I might need to do a part two later on!
+
+In this episode I review:
+
+- Rally Interactive’s fancy keyboard accessible ribbon navigation.
+- La Haute Societe’s cross-fading list and diamonds navigation.
+- Nixon Watches using animation to help kepp track of their giant navigation.
+- Orienting users to navigation state changes on Concrete Matter’s site.
+- The nicely art directed motion of Stupid Studio’s navigation.
+
+Thanks to [Jules](https://twitter.com/@jlsmp) for suggesting Concrete Matter on Twitter! As always, I’d love to hear what you think. If you find these helpful or have a site you’d like me to review, let me know in the comments or on [Twitter](https://twitter.com/vlh).
+
+To learn more about web animation and using it in your own work, check out my course on [CSS Animation](http://www.lynda.com/CSS-tutorials/CSS-Animations/115434-2.html?utm_medium=ldc-partner&utm_source=SSPRC&utm_content=524&utm_campaign=CD14926&bid=524&aid=CD14926&opt=) and my [UI animation resource page](http://valhead.com/ui-animation/).
+
+Music from the super happy and upbeat Alpine. Go buy *A is for Alpine* on [Amazon](http://www.amazon.com/A-Is-Alpine/dp/B00C2U6E60) or [iTunes](http://itunes.apple.com/us/album/a-is-for-alpine/id636157647).
+
+----
+
+Transcript: 

@@ -1,0 +1,17 @@
+Title: Pause and slow down web animations in Chrome Canary Dev Tools
+
+----
+
+Date: 2015-01-06
+
+----
+
+Vimeo: 116038639
+
+----
+
+Summary: A short little screencast to show what you can do with the new animation controls that have arrived in Chrome Canary. Pausing and slowing down animations globally really comes in handy for visually debugging animations as you're designing and building them.
+
+----
+
+Transcript: 

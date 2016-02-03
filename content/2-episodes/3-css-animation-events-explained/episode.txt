@@ -1,0 +1,21 @@
+Title: CSS Animation Events Explained!
+
+----
+
+Date: 2014-02-16
+
+----
+
+Vimeo: 86821694
+
+----
+
+Summary:
+
+A step-by-step tutorial on listening for CSS animation events with JavaScript and the additional details you can get from them! The example we use is live on the lovely [codepen.io](cdpn.io/BnAwx) and the full list of links and resources are on my site. In an odd turn of events, there are no cats in this tutorial.
+
+Music from the super happy and upbeat Alpine. Go buy *A is for Alpine* on [Amazon](http://www.amazon.com/A-Is-Alpine/dp/B00C2U6E60) or [iTunes](http://itunes.apple.com/us/album/a-is-for-alpine/id636157647).
+
+----
+
+Transcript:

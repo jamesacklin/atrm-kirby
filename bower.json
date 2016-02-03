@@ -1,0 +1,22 @@
+{
+  "name": "atrm-kirby",
+  "description": "Kirby is a file-based CMS. Easy to setup. Easy to use. Flexible as hell.",
+  "main": "index.js",
+  "authors": [
+    "James Acklin <jamesacklin@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "normalize-scss": "^3.0.3"
+  }
+}

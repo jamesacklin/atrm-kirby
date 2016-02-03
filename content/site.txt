@@ -1,0 +1,17 @@
+Title: All The Right Moves
+
+----
+
+Author: Val Head
+
+----
+
+Description: A screencast series of tutorials for animating UI elements on the web with your host, Val Head. Caution: maybe contain cats and bad jokes.
+
+----
+
+Keywords: CSS, UI animation, web design
+
+----
+
+Copyright: © 2015-(date: Year) (link: http://www.valhead.com text: Val Head)
