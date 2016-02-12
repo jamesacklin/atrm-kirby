@@ -524,6 +524,10 @@ fieldset legend {
   user-select: none;
 }
 
+.btn:hover {
+  text-decoration: none;
+}
+
 .btn.btn-default {
   background: #ff4b37;
 }
@@ -824,16 +828,33 @@ article.episode.episode-exerpt .video-container {
 }
 
 footer[role=contentinfo] {
-  padding: 0 5%;
+  padding: 2em 10%;
+}
+
+@media (min-width: 960px) {
+  footer[role=contentinfo] {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  footer[role=contentinfo] .content {
+    width: 66.666%;
+    padding: 0 1%;
+  }
+  footer[role=contentinfo] aside {
+    width: 33.333%;
+    text-align: center;
+    padding: 0 1%;
+  }
+}
+
+.bio-photo {
+  float: left;
+  display: inline;
+  margin: 0.3em 2% 0 0;
 }
 
 .short-bio {
   margin: 2em auto;
   max-width: 750px;
-}
-
-.short-bio img {
-  float: left;
-  display: inline;
-  margin: 0.3em 2% 0 0;
 }

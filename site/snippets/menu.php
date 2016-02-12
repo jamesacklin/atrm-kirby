@@ -1,4 +1,4 @@
-<nav class="main-navigation" role="navigation banner">
+<nav class="main-navigation" role="navigation banner" id="top">
   <ul class="menu">
     <?php foreach($pages->visible() as $p): ?>
     <li class="menu-item <?php ecco($p->isOpen(), 'menu-item-active') ?>">
