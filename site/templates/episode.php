@@ -31,7 +31,7 @@
           <h4>Episode Sponsors</h4>
           <?php echo $page->advertisements()->kirbytext(); ?>
         </div>
-      <?php else : ?>
+      <?php elseif(!$page->advertisements()->isNotEmpty() && $site->advertisements()->isNotEmpty()): ?>
         <div class="advertisements advertisements-series">
           <h4>Series Sponsors</h4>
           <?php echo $site->advertisements()->kirbytext(); ?>

@@ -18,4 +18,4 @@ Copyright: © 2015-(date: Year) (link: http://www.valhead.com text: Val Head)
 
 ----
 
-Advertisements: [![Advertisement for Something](/assets/images/advertisement.png)](http://www.google.com)
+Advertisements:
