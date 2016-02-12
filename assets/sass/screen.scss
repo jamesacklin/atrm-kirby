@@ -12,6 +12,8 @@ $aqua-dark: rgb(28,215,145);
 $coral-light: rgb(255,102,82);
 $coral: rgb(255, 75, 55);
 
+$cyan: rgb(60,150,255);
+
 $white: rgb(255, 255, 255);
 $gray-light: rgb(232,232,232);
 $gray-medium: rgb(126,128,126);
@@ -62,7 +64,7 @@ h3 {
   font-family: $font-primary;
   line-height: 1;
   font-weight: 700;
-  &.alt { color: $aqua; }
+  &.alt { color: $navy; }
 }
 
 p {
@@ -80,14 +82,14 @@ a {
   color: $coral;
   text-decoration: none;
   &:hover {
-    color: $aqua;
+    color: $cyan;
     text-decoration: underline;
   }
 }
 
 mark {
-  background: $aqua;
-  color: $navy;
+  background: $navy;
+  color: $coral;
 }
 
 cite {
@@ -125,11 +127,11 @@ fieldset {
     }
   }
   &.btn-alt {
-    background: $aqua;
-    color: $navy;
+    background: $cyan;
+    color: $white;
     &:hover {
-      background: $white;
-      color: $aqua;
+      background: $navy;
+      color: $cyan;
     }
   }
   &.btn-alt-2 {
@@ -142,7 +144,7 @@ fieldset {
   &.btn-alt-3 {
     background: $navy;
     &:hover {
-      background: $aqua;
+      background: $coral;
       color: $white;
     }
   }
@@ -151,8 +153,8 @@ fieldset {
     background: transparent;
     color: $navy;
     &:hover {
-      border-color: $aqua;
-      color: $aqua;
+      border-color: $coral;
+      color: $coral;
     }
   }
   &.btn-outline-inverted {
@@ -165,9 +167,9 @@ fieldset {
     }
   }
   &.btn-outline-inverted-alt {
-    border: 0.1875em solid $aqua;
+    border: 0.1875em solid $cyan;
     background: transparent;
-    color: $aqua;
+    color: $cyan;
     &:hover {
       color: $white;
       border-color: $white;
@@ -189,7 +191,7 @@ nav.main-navigation {
     padding: 1em;
     &.menu-item-active {
       background: $navy;
-      border-bottom: 3px solid $aqua;
+      border-bottom: 3px solid $cyan;
     }
   }
   a {
