@@ -24,7 +24,7 @@ function updateGradient() {
   var g2 = Math.round(istep * c1_0[1] + step * c1_1[1]);
   var b2 = Math.round(istep * c1_0[2] + step * c1_1[2]);
   var color2 = "rgb(" + r2 + "," + g2 + "," + b2 + ")";
-  $('header').css({
+  $('.header-home').css({
     background: "linear-gradient(45deg, " + color1 + ", " + color2 + ")"
   });
   step += gradientSpeed;

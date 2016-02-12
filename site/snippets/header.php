@@ -14,7 +14,7 @@
   </head>
   <body <?php if ($page->template() == "episode") echo ' class="single-episode"' ?>>
     <?php snippet('menu') ?>
-    <header>
+    <header <?php if ($page->isHomePage()) echo "class='header-home'"; ?>>
       <?php if ($page->isHomePage()){ ?>
         <div class="content">
           <h1><?php echo $site->title()->html() ?></h1>
