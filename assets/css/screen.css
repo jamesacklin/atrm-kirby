@@ -665,8 +665,6 @@ header h1 {
 
 @media (min-width: 820px) {
   header .content {
-    height: 66vh;
-    padding-right: 25%;
     font-size: 120%;
     display: table-cell;
     width: 100%;
@@ -674,17 +672,21 @@ header h1 {
     padding-bottom: 3vh;
   }
   header .content .subscribe-info {
-    position: absolute;
-    top: 1em;
-    right: 5%;
-    max-width: 350px;
-    font-size: 60%;
+    font-size: 75%;
+    width: 100%;
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1000px) {
   header .content {
-    height: 75vh;
+    padding-right: 25%;
+  }
+  header .content .subscribe-info {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    max-width: 300px;
+    font-size: 60%;
   }
 }
 
