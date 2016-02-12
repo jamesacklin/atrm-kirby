@@ -10,7 +10,7 @@ Vimeo: 146184432
 
 ----
 
-Summary:
+Summary: 
 
 A quick screencast to show you how to get these controls in Chrome Canary and what you can do with them. It's an experimental feature so all of this might change at any point in time. But if you're having trouble finding them, let me save you some time :)
 
@@ -20,4 +20,8 @@ For more web animation tips and tricks, subscribe to the [UI Animation Newslette
 
 ----
 
-Transcript:
+Transcript: 
+
+----
+
+Advertisements: [![Advertisement for Something](/assets/images/advertisement.png)](http://www.valhead.com)

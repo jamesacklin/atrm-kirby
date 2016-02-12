@@ -25,13 +25,18 @@
           <a class="btn btn-alt-3 prev" href="<?php echo $prev->url() ?>">Previous Episode</a>
           <?php endif ?>
         </p>
-        <div class="advertisement">
-          <img src="/assets/images/advertisement.png" alt="Advertisement">
-        </div>
-        <div class="advertisement">
-          <img src="/assets/images/advertisement.png" alt="Advertisement">
-        </div>
       </nav>
+      <?php if($page->advertisements()->isNotEmpty()): ?>
+        <div class="advertisements advertisements-episode">
+          <h4>Episode Sponsors</h4>
+          <?php echo $page->advertisements()->kirbytext(); ?>
+        </div>
+      <?php else : ?>
+        <div class="advertisements advertisements-series">
+          <h4>Series Sponsors</h4>
+          <?php echo $site->advertisements()->kirbytext(); ?>
+        </div>
+      <?php endif; ?>
     </aside>
   </article>
 </main>

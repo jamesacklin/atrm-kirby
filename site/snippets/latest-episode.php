@@ -15,5 +15,19 @@
       echo $episode->transcript()->kirbytext();
     endif;?>
 
+    <aside>
+      <?php if($episode->advertisements()->isNotEmpty()): ?>
+        <div class="advertisements advertisements-episode">
+          <h4>Episode Sponsors</h4>
+          <?php echo $episode->advertisements()->kirbytext(); ?>
+        </div>
+      <?php else : ?>
+        <div class="advertisements advertisements-series">
+          <h4>Series Sponsors</h4>
+          <?php echo $site->advertisements()->kirbytext(); ?>
+        </div>
+      <?php endif; ?>
+    </aside>
+
 </article>
 <?php endforeach ?>

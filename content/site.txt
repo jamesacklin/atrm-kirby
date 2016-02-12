@@ -10,8 +10,12 @@ Description: A screencast series of tutorials for animating UI elements on the w
 
 ----
 
-Keywords: CSS, UI animation, web design
+Keywords: CSS,UI animation,web design
 
 ----
 
 Copyright: © 2015-(date: Year) (link: http://www.valhead.com text: Val Head)
+
+----
+
+Advertisements: [![Advertisement for Something](/assets/images/advertisement.png)](http://www.google.com)

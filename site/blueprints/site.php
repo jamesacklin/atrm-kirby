@@ -18,3 +18,6 @@ fields:
   copyright:
     label: Copyright
     type:  textarea
+  advertisements:
+    label: Series Advertisements
+    type: textarea

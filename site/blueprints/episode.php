@@ -21,3 +21,6 @@ fields:
   transcript:
     label: Transcript
     type:  textarea
+  advertisements:
+    label: Episode Advertisements
+    type: textarea

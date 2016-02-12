@@ -7,8 +7,9 @@ password: >
 language: en
 role: admin
 history:
+  - >
+    episodes/how-to-access-chromes-new-web-animation-controls
   - home
   - episodes/ui-animation-reviews-animation-in-responsive-design
-  - episodes/how-to-access-chromes-new-web-animation-controls
   - episodes/pause-and-slow-down-web-animations-in-chrome-canary-dev-tools
   - episodes/ui-animation-reviews-modals
