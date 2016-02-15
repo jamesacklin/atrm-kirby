@@ -10,12 +10,19 @@
     <?php if ($episode->summary()->isNotEmpty()):
       echo $episode->summary()->kirbytext();
     endif; ?>
-    <?php if ($episode->transcript()->isNotEmpty()):
-      echo "<h2>Transcript:</h2>";
-      echo $episode->transcript()->kirbytext();
+    <?php if ($page->transcript()->isNotEmpty()):
+      echo "<div id='transcript' class='transcript-content'>";
+      echo "<h2>Transcript</h2>";
+      echo $page->transcript()->kirbytext();
+      echo "</div>";
     endif;?>
 
     <aside>
+      <?php if ($page->transcript()->isNotEmpty()): ?>
+        <p>
+          <a href="#" class="btn btn-alt transcript-button"><i class="fa fa-fw fa-file-text-o"></i> Read Transcript</a>
+        </p>
+      <?php endif; ?>
       <?php if($episode->advertisements()->isNotEmpty()): ?>
         <div class="advertisements advertisements-episode">
           <h4>Episode Sponsors</h4>

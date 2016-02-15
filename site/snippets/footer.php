@@ -18,7 +18,8 @@
   </aside>
 </footer>
 <?php echo js(array(
-  '//code.jquery.com/jquery-2.2.0.min.js',
+  'https://code.jquery.com/jquery-2.2.0.min.js',
+  'assets/js/site.js',
   'assets/js/min/animated-gradient-min.js'
 ), true) ?>
 

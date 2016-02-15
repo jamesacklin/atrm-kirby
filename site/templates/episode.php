@@ -9,14 +9,18 @@
       echo $page->summary()->kirbytext();
     endif; ?>
     <?php if ($page->transcript()->isNotEmpty()):
-      echo "<h2>Transcript:</h2>";
+      echo "<div id='transcript' class='transcript-content'>";
+      echo "<h2>Transcript</h2>";
       echo $page->transcript()->kirbytext();
+      echo "</div>";
     endif;?>
     <aside>
-      <nav class="nextprev cf" role="navigation">
+      <?php if ($page->transcript()->isNotEmpty()): ?>
         <p>
-          <a href="#" class="btn btn-alt"><i class="fa fa-fw fa-file-text-o"></i> Read Transcript</a>
+          <a href="#" class="btn btn-alt transcript-button"><i class="fa fa-fw fa-file-text-o"></i> Read Transcript</a>
         </p>
+      <?php endif; ?>
+      <nav class="nextprev cf" role="navigation">
         <p>
           <?php if($next = $page->nextVisible()): ?>
           <a class="btn btn-alt-3 next" href="<?php echo $next->url() ?>">Next Episode</a>

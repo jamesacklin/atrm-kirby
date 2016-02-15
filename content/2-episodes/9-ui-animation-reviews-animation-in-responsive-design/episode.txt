@@ -10,7 +10,7 @@ Vimeo: 131224232
 
 ----
 
-Summary: 
+Summary:
 
 Another UI animation review episode! This time we're looking at animation in responsive design. There are a lot of factors that come into play when we're animating objects that require space to move in while at the same time knowing that the amount of viewport space we have available will change. In this episode I look at how five different sites adjust their animation design decisions for different screen sizes.
 
@@ -28,4 +28,4 @@ Music from the super happy and upbeat Alpine. Go buy *A is for Alpine* on [Amazo
 
 ----
 
-Transcript: 
+Transcript: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
