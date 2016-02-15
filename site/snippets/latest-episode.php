@@ -20,7 +20,7 @@
     <aside>
       <?php if ($page->transcript()->isNotEmpty()): ?>
         <p>
-          <a href="#" class="btn btn-alt transcript-button"><i class="fa fa-fw fa-file-text-o"></i> Read Transcript</a>
+          <a href="#transcript" class="btn btn-alt transcript-button"><i class="fa fa-fw fa-file-text-o"></i> Read Transcript</a>
         </p>
       <?php endif; ?>
       <?php if($episode->advertisements()->isNotEmpty()): ?>
