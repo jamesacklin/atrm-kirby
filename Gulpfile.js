@@ -1,6 +1,9 @@
 var gulp = require('gulp');
     sass = require('gulp-sass');
     autoprefixer = require('gulp-autoprefixer');
+    concat = require('gulp-concat'),
+    rename = require('gulp-rename'),
+    uglify = require('gulp-uglify'),
     browserSync = require('browser-sync').create();
 
 gulp.task('styles', function(){
@@ -14,7 +17,26 @@ gulp.task('styles', function(){
     .pipe(browserSync.stream());
 });
 
-gulp.task('serve', ['styles'], function() {
+
+gulp.task('scripts', function(){
+  return gulp.src([
+      // Throw all your JS depenencies in here from the bower_components folder
+      './bower_components/jquery/dist/jquery.js',
+      './assets/js/lib/site.js',
+      './assets/js/lib/animated-gradient.js',
+    ])
+    .pipe(concat('app.js'))
+    .pipe(gulp.dest('./assets/js/'))
+    .pipe(rename('app.min.js'))
+    .pipe(uglify()).on('error', function(error){
+      console.log(err);
+    })
+    .pipe(gulp.dest('./assets/js/min/'))
+    .pipe(browserSync.stream());
+});
+
+
+gulp.task('serve', ['styles', 'scripts'], function() {
   browserSync.init({
     // Run `php -S localhost:8000` in a background task to allow
     // Gulp + browserSync to serve the app via a proxy.

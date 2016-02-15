@@ -18,9 +18,7 @@
   </aside>
 </footer>
 <?php echo js(array(
-  'bower_components/jquery/dist/jquery.min.js',
-  'assets/js/site.js',
-  'assets/js/min/animated-gradient-min.js'
+  'assets/js/min/app.min.js'
 ), true) ?>
 
 </body>
